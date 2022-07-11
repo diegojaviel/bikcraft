@@ -11,12 +11,11 @@
   box-sizing: border-box;
   padding: 20px;
   max-width: 1200px;
-  margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .header-menu {
-  font-family: "Poppins";
-  font-weight: 400;
   display: flex;
   flex-wrap: wrap;
   gap: 40px;
@@ -25,7 +24,6 @@
 .header-menu a {
   display: inline-block;
   padding: 16px 0;
-  font-size: 18px;
   position: relative;
 }
 
