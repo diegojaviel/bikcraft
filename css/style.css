@@ -30,6 +30,9 @@
 /* bicicletas */
 @import "./bicicletas/bicicletas.css";
 
+/* orcamento */
+@import "./orcamento/orcamento.css";
+
 /* contato */
 @import "./contato/contato.css";
 @import "./contato/lojas.css";
