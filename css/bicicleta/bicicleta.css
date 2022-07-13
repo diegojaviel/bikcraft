@@ -1,3 +1,6 @@
+.bicicleta-bg {
+  background-color: var(--cor-11);
+}
 .bicicleta {
   display: grid;
   grid-template-columns: 1fr 1fr;

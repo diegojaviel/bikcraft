@@ -66,6 +66,9 @@
 }
 
 @media (max-width: 800px) {
+  .seguros-bg {
+    background: var(--cor-11);
+  }
   .seguros {
     grid-template-columns: 1fr;
   }
